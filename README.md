@@ -25,16 +25,16 @@
 
 <h3 align="left">✦ Tech Stack</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Java-2188ff?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-2188ff?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-2188ff?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/HTML5-2188ff?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-2188ff?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Arduino-2188ff?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2188ff?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/Roblox_Studio-2188ff?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" />
 </p>
 </td>
 
