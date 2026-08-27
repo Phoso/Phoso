@@ -27,10 +27,9 @@
 <h3 align="left">✦ Tech Stack</h3>
 <p align="left">
 <!-- เปลี่ยนเป็นไอคอนโลโก้ล้วน -->
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,arduino,lua" />
-<br/><br/>
-<!-- Roblox Studio ไม่มีในระบบไอคอนหลัก เลยใช้ป้ายดำแยกไว้ให้คงความเท่ครับ -->
-<img src="https://img.shields.io/badge/-ROBLOX_STUDIO-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,arduino,lua,VScode" />
+<br/>
+
 </p>
 </td>
 
