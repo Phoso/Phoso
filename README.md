@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,c" />
 <br/>
 <h3 align="left">✦ Tool</h3>
-<img src="https://skillicons.dev/icons?i=arduino,lua,linux,robloxstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=arduino,linux,robloxstudio,vscode" />
 
 </p>
 </td>
