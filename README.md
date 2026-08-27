@@ -16,7 +16,7 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
 
-<td width="40%" valign="top">
+<td width="30%" valign="top">
 <h3 align="left">✦ About & Achievements</h3>
 🎓 Studying <b>Computer Science</b> at RMUTT<br/>
 🚩 Competitor in <b>Thailand Cyber Top Talent 2026</b><br/>
