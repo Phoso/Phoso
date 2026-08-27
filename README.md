@@ -27,7 +27,7 @@
 <h3 align="left">✦ Tech Stack</h3>
 <p align="left">
 <!-- เปลี่ยนเป็นไอคอนโลโก้ล้วน -->
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,arduino,lua,VScode" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,arduino,lua,c,linux,robloxstudio,vscode" />
 <br/>
 
 </p>
