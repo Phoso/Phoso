@@ -24,11 +24,13 @@
 💻 Competitor in <b>C Programming Competition 2024</b><br/>
 <br/>
 
-<h3 align="left">✦ Tech Stack</h3>
+<h3 align="left">✦ Languages</h3>
 <p align="left">
 <!-- เปลี่ยนเป็นไอคอนโลโก้ล้วน -->
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,arduino,lua,c,linux,robloxstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,c" />
 <br/>
+<h3 align="left">✦ Tool</h3>
+<img src="https://skillicons.dev/icons?i=arduino,lua,linux,robloxstudio,vscode" />
 
 </p>
 </td>
