@@ -11,7 +11,10 @@
       <br/>
       <p style="margin: 0; font-size: 14px;">
         <span style="color: #a3cc27; font-weight: bold;">🎮 In-Game</span><br/>
-        <span style="color: #a3cc27;">Visual Studio Code</span>
+        <!-- ⚡ ใส่ Animation ข้อความพิมพ์ดีดตรงนี้ (Typing Effect) สีเขียวสไตล์ Steam -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=14&pause=1000&color=A3CC27&vCenter=true&width=250&lines=Visual+Studio+Code;Roblox+Studio;Arduino+IDE;Writing+Python+%26+Java..." alt="Typing Status" />
+        </a>
       </p>
     </td>
     <td width="120" align="right" valign="top" style="padding: 15px;">
