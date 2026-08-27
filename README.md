@@ -12,21 +12,22 @@
 
 <br/>
 
-<!-- 📱 Side-by-Side Content (เต็มจอ & สั้นลง) -->
+<!-- 📱 Layout แบบแบ่ง 2 ฝั่ง (ซ้าย: ข้อมูล, ขวา: กราฟสถิติ) -->
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✦ About & Achievements</h3>
+    <!-- 🟦 ฝั่งซ้าย (40%): About & Tech Stack -->
+    <td width="40%" valign="top">
+      <h3 align="left">✦ About & Achievements</h3>
       <ul>
         <li>🎓 Studying <b>Computer Science</b> at RMUTT</li>
         <li>🚩 Competitor in <b>Thailand Cyber Top Talent 2026</b></li>
         <li>💻 Competitor in <b>C Programming Competition 2024</b></li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✦ Tech Stack</h3>
-      <p align="center">
-        <!-- คุมโทนสี Badge ให้เป็นสีน้ำเงินทั้งหมด -->
+      
+      <br/>
+      
+      <h3 align="left">✦ Tech Stack</h3>
+      <p align="left">
         <img src="https://img.shields.io/badge/Java-2188ff?style=for-the-badge&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-2188ff?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-2188ff?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -39,12 +40,10 @@
         <img src="https://img.shields.io/badge/Roblox_Studio-2188ff?style=for-the-badge&logo=roblox&logoColor=white" />
       </p>
     </td>
+    
+    <!-- 🟦 ฝั่งขวา (60%): GitHub Metrics -->
+    <td width="60%" valign="top" align="right">
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- 📈 GitHub Metrics -->
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
